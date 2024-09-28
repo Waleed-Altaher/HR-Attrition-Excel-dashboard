@@ -7,7 +7,8 @@ This Interactive HR Attrition Dashboard in Excel provides a comprehensive analys
   * regular formulas.
 
 ## Dashboard: 
- ![Dashboard](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Project%20Screenshots/Gif%20Dashboard.gif)
+![Dashboard](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Project%20Screenshots/Gif%20Dashboard.gif) 
+
   
  - check out filtering options and KPIS.
 
