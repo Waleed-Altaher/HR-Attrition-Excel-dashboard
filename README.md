@@ -7,25 +7,26 @@ This Interactive HR Attrition Dashboard in Excel provides a comprehensive analys
   * regular formulas.
 
 ## Dashboard: 
-  ![Dashboard](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Project%20Screenshots/Gif%20Dashboard.gif) 
+ ![Dashboard](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Project%20Screenshots/Gif%20Dashboard.gif)
+  
  - check out filtering options and KPIS.
 
 --------------------------------------------------
 <br/><br/>
 
 ## Query Editor Transformations: 
-![Query](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/QueryEditor%20transformations.png) 
+![Query](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/QueryEditor%20transformations.png)
 
 <br/><br/> 
 
 ## Pivot tables: 
-![Pivot](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Pivot%20table%202.png) 
+![Pivot](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Project%20Screenshots/Pivot%20table%202.png)
 *** 
-![Pivot](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Pivot%20table.png) 
+![Pivot](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Project%20Screenshots/Pivot%20table.png)
 ***
-![Pivot](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/pivot3.png)
+![Pivot](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Project%20Screenshots/pivot3.png)
 ***
-![Pivot](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/pivots.png) 
+![Pivot](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Project%20Screenshots/pivots.png) 
 
 <br/><br/>
 
