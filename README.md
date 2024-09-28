@@ -30,5 +30,8 @@ This Interactive HR Attrition Dashboard in Excel provides a comprehensive analys
 ![Pivot](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Project%20Screenshots/pivots.png) 
 
 <br/><br/>
-
+## Data Source: 
+The source from IBM HR Data on [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset). 
+<br/><br/>
+***
 #### The aim was to get used to viualizing data on excel, dealing with filters localized and globaled, pivot tools , query editor and the UI/UX for the client. In another Project I will Get my hands dirty with advanced dax formulas and more.
