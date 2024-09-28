@@ -8,9 +8,15 @@ This Interactive HR Attrition Dashboard in Excel provides a comprehensive analys
 
 ## Dashboard: 
   ![Dashboard](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Gif%20Dashboard.gif) 
+ - check out filtering options and KPIS.
+
+--------------------------------------------------
+<br/><br/>
 
 ## Query Editor Transformations: 
 ![Query](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/QueryEditor%20transformations.png) 
+
+<br/><br/> 
 
 ## Pivot tables: 
 ![Pivot](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Pivot%20table%202.png) 
@@ -21,6 +27,6 @@ This Interactive HR Attrition Dashboard in Excel provides a comprehensive analys
 ***
 ![Pivot](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/pivots.png) 
 
+<br/><br/>
 
-
-### The aimed results were to get used to viualizing data on excel, dealing with filters localized and globaled, pivot tools and query editor. In another Project I will Get my hands dirty with advanced dax formulas and more. 
+#### The aim was to get used to viualizing data on excel, dealing with filters localized and globaled, pivot tools , query editor and the UI/UX for the client. In another Project I will Get my hands dirty with advanced dax formulas and more.
