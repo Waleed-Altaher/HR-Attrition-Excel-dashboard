@@ -15,7 +15,7 @@ This Interactive HR Attrition Dashboard in Excel provides a comprehensive analys
 <br/><br/>
 
 ## Query Editor Transformations: 
-![Query](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/QueryEditor%20transformations.png)
+![Query](https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Project%20Screenshots/QueryEditor%20transformations.png)
 
 <br/><br/> 
 
